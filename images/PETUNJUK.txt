@@ -1,0 +1,3 @@
+Simpan logo Anda di sini dengan nama logo.png, plus foto peternakan Anda.
+
+<img src="images/ayam.png" alt="Ayam kampung di peternakan" />
